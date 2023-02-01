@@ -1,2 +1,2 @@
-#!/bin/bass
-echo "school"
+#!/bin/bash
+echo "The school is open!"
